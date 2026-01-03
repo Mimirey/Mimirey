@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ˚ ༘♡ 🥝⋆｡˚ ★ 𖦹°‧ About Me:
 🗁 This account consist Myra's recent, past, future skill-growth progress<br>🗃️ In progress, done, on planning<br> ⛏ Learn by trying it out<br>🎓 I’m currently studying Software Engineering in Vocational Highschool<br> ↻ Passionate to try many fields in tech<br>(﹙˓ ‍🎧 ˒﹚) Fun fact: still trying to do 'best practice'<br>
 
 
