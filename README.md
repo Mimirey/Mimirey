@@ -13,8 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Mimirey&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimirey&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mimirey&layout=pie)](https://github.com/Mimirey/github-readme-stats)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mimirey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
